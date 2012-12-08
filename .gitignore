@@ -6,3 +6,5 @@ obj
 *.bak
 *.sln.cache
 _ReSharper*
+_UpgradeReport_Files*/
+Backup*/
